@@ -123,6 +123,5 @@ This mobile banking application is open-source and is licensed under the [MIT Li
 
 
 ## Contact
-For any inquiries or feedback, please contact the development team at evansachie01@gmail.com
+For any inquiries or feedback, please contact the development team at talhaatique.aus@gmail.com
 
-Feel free to update and customize this README file according to your specific project requirements and add relevant sections such as architecture, installation instructions, screenshots, etc.
